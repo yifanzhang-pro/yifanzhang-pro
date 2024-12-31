@@ -8,7 +8,7 @@
 ## About Me
 <p>I am Yifan Zhang, a CS graduate (MPhil) student at the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, advised by Prof. Andrew Chi-Chih Yao and Prof. Yang Yuan. </p>
 <p>For the academic year 2024-2025, I am a visiting graduate student at UCLA, advised by Prof. Quanquan Gu.</p>
-Feel free to reach out via ![email](mailto:zhangyif21@mails.tsinghua.edu.cn), ![X](https://x.com/yifan_zhang_), or ![WeChat](https://yifzhang.com/images/wechatqrcode.jpg)! 
+Feel free to reach out via [email](mailto:zhangyif21@mails.tsinghua.edu.cn), [X](https://x.com/yifan_zhang_), or [WeChat](https://yifzhang.com/images/wechatqrcode.jpg)! 
 <p>If you have any questions or topics you'd like to discuss, please let me know! </p>
 
 **Research Topics**
