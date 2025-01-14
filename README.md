@@ -9,7 +9,7 @@
 <p>I am Yifan Zhang. </p>
 <p>
         Feel free to reach out via 
-        <a href="mailto:zhangyif21@mails.tsinghua.edu.cn">email</a>, 
+        <a href="mailto:yif-zhang@outlook.com">email</a>, 
         <a href="https://x.com/yifan_zhang_">X</a>, 
         or 
         <a href="https://yifzhang.com/images/wechatqrcode.jpg">WeChat</a>!
