@@ -17,6 +17,6 @@
 <p>If you have any questions or topics you'd like to discuss, please let me know! </p>
 
 **Research Topics**
-- Foundation Models (Language Models) 
-- AI Reasoning & AI Safety
-- Representation Learning 
+- Foundation Model Architectures
+- Language Models
+- AI Reasoning & AI Alignment
