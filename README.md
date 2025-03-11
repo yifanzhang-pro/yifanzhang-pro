@@ -1,1 +1,1 @@
-# Language and Thoughts
+# Language and Thought 
