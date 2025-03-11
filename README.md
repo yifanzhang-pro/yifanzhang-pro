@@ -1,1 +1,1 @@
-# LANGUAGE SCIENCE
+# Language and Thoughts
