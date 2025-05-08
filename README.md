@@ -1,3 +1,3 @@
-# Language and Thought 
+# Yifan Zhang
 
 Homepage: https://yifzhang.com
