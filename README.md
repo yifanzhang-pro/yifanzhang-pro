@@ -1,3 +1,3 @@
 # Language and Thought 
 
-https://yifzhang.com
+Homepage: https://yifzhang.com
