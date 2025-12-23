@@ -4,8 +4,6 @@ PhD student at Princeton University, focusing on LLMs, especially Language Model
 
 **Homepage: https://yifzhang.com** 
 
-Huggingface: https://huggingface.co/math-ai 
-
 Yifan's Blog: https://yifzhang.com/#blog
 
 [Yifan's Blog] **How to Train Frontier Models Effectively**: https://github.com/yifanzhang-pro/how-to-train-frontier-models 
