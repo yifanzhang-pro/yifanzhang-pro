@@ -5,3 +5,5 @@ PhD student at Princeton University, focusing on LLMs, especially Language Model
 Homepage: https://yifzhang.com
 
 Yifan's Blog: https://yifzhang.com/#blog
+
+Huggingface: https://huggingface.co/math-ai 
