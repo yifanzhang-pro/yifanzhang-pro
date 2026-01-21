@@ -2,6 +2,6 @@
 
 PhD student at Princeton University, focusing on LLMs, especially Language Modeling and Pretraining, LLM Reasoning, and Reinforcement Learning.
 
-**Homepage: https://yfz.ai** 
+**Homepage: https://YFZ.ai** 
 
-**Yifan's Blog: https://yfz.ai/blog** 
+**Yifan's Blog: https://YFZ.ai/blog** 
