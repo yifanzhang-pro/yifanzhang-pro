@@ -1,6 +1,6 @@
 # Yifan Zhang
 
-PhD student at **Princeton University**, **Princeton AI Lab Fellow**, working on Language Modeling and Pretraining, LLM Reasoning, and Reinforcement Learning. 
+PhD student at **Princeton University**, **Princeton AI Lab Fellow**, working on LLM Reasoning, Reinforcement Learning, Language Modeling, and Pretraining.
 
 **Homepage: https://YFZ.ai** 
 
